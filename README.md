@@ -1,10 +1,9 @@
-# 
-
-
+#
 
 ## Technology Stack
 
 - **ChatBotKit SDK**: For building the chatbot logic and handling conversation flow.
+- **Brave API**: For providing web and image search capabilities.
 - **React**: For UI components that interact with the user, such as forms for capturing appointment details and slot selection.
 - **Next.js**: The application environment.
 
