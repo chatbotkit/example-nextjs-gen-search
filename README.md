@@ -1,4 +1,6 @@
-#
+[![Demo](https://img.shields.io/badge/live-demo-blue.svg)]([https://chatbotkit.com](https://chatbotkit-example-nextjs-gen-search.vercel.app/))
+
+# NextJS Gen Search
 
 ## Technology Stack
 
